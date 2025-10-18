@@ -36,7 +36,7 @@ All models are built in **PyTorch** and are designed to be run in the included G
 
 The entire project is contained in a single Google Colab notebook (e.g., `Deep_Learning_Models.ipynb`).
 
-1.  Click the **"Open In Colab"** badge at the top of this README.
+1.  Download the Notebook and open it using Google Collab
 2.  Once the notebook is open, select a GPU runtime by navigating to **Runtime > Change runtime type > T4 GPU**.
 3.  Run the cells sequentially from top to bottom.
 4.  All necessary datasets (CIFAR-10, Names, IMDB) will be downloaded automatically by the notebook.
