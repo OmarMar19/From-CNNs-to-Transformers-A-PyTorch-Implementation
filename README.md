@@ -1,8 +1,6 @@
 # From CNNs to Transformers: A PyTorch Implementation
 
 [![Made with PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-orange?logo=pytorch)](https://pytorch.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb)
-*(Click the badge above to run the project directly in Google Colab!)*
 
 ## 📖 About This Project
 
